@@ -1,1 +1,1 @@
-var = "branch1!!!!. lets write something  hello"
+var = "branch1!!!!"
